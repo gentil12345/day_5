@@ -1,0 +1,8 @@
+node_modules/
+backend-project/node_modules/
+frontend-project/node_modules/
+.env
+backend-project/.env
+*.log
+dist/
+build/
